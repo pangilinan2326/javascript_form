@@ -12,7 +12,8 @@
 			const studentTable = document
 				.getElementById("student_table")
 			
-			console.log(studentTable);
+			const row1 = studentTable.insertRow1();
+			
 		</script>
 	</body>
 </html>
